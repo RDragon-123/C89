@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../C80"
+		},
+		{
+			"path": "../../../Downloads/C81CanvasCircle"
+		},
+		{
+			"path": "../C82"
+		},
+		{
+			"path": "../C83"
+		},
+		{
+			"path": "../../../Downloads/MovingRover 2"
+		},
+		{
+			"path": "../MovingRover 2 copy"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MovingRover 2"
+	}
+}
